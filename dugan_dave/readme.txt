@@ -1,0 +1,1 @@
+Future site of our diamond store
