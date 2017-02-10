@@ -241,9 +241,12 @@ C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\M
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Data\Migrations\20170203144508_Initial.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Data\Migrations\20170203144508_Initial.Designer.cs
+C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Data\Migrations\20170210175959_Rating.cs
+C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Data\Migrations\20170210175959_Rating.Designer.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Data\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Models\ApplicationUser.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Models\Movie.cs
+C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Models\MovieGenreViewModel.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Models\SeedData.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 C:\Users\CIS\Desktop\Development\webdev\jeremy\movie_aspnet_model\MvcMovie\src\MvcMovie\Models\AccountViewModels\ForgotPasswordViewModel.cs

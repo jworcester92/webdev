@@ -12,8 +12,8 @@ namespace BootstrapIntroduction.Controllers
         {
             var person = new Models.Person
             {
-                FirstName = "Eric",
-                LastName = "McQuiggan"
+                FirstName = "Jeremy",
+                LastName = "Worcester"
             };
 
             return View(person);
