@@ -357,3 +357,4 @@ C:\Users\CIS\Desktop\Development\webdev\jeremy\chapter_5\BootstrapIntroduction\B
 C:\Users\CIS\Desktop\Development\webdev\jeremy\chapter_5\BootstrapIntroduction\BootstrapIntroduction\bin\roslyn\vbc.exe.config
 C:\Users\CIS\Desktop\Development\webdev\jeremy\chapter_5\BootstrapIntroduction\BootstrapIntroduction\bin\roslyn\vbc.rsp
 C:\Users\CIS\Desktop\Development\webdev\jeremy\chapter_5\BootstrapIntroduction\BootstrapIntroduction\bin\Json.NET.Web.dll
+C:\Users\CIS\Desktop\Development\webdev\jeremy\chapter_5\BootstrapIntroduction\BootstrapIntroduction\bin\System.Linq.Dynamic.dll
