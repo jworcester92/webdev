@@ -1,0 +1,13 @@
+As you may be able to see, our "business" is RiverCity Industrial Diamonds.
+
+The general Web-framework is included in this directory for your reference.
+
+The details for each page on the wireframe are up to your discretion; just make sure it is logical.
+
+We would like to use the Natural Lite theme for our site; we want it to look kinda natural; go heavy into the diamond pictures/forests, natual landscapes/mines etc.
+
+The default font for the Natural Lite theme will do just fine for us as well.
+
+A logo has also been placed here for your use; please don't make fun of it lol. 
+
+Thanks!
