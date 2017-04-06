@@ -11,7 +11,7 @@
     <WebStackScaffolding_DbContextTypeFullName>BootstrapIntroduction.DAL.BookContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
-    <NameOfLastUsedPublishProfile>MVC-TEST</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>BootstrapTest1</NameOfLastUsedPublishProfile>
     <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>

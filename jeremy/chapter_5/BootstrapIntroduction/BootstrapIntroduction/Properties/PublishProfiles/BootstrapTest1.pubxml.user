@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>Y:\inetpub\wwwroot\MVC-TEST</_PublishTargetUrl>
+    <_PublishTargetUrl>\\Iis-mvc\c\inetpub\wwwroot\BootstrapTest1</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
@@ -19,13 +19,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/02/2017 09:21:53</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>03/18/2017 19:57:07</publishTime>
+      <publishTime>04/05/2017 22:02:59</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>03/18/2017 19:57:07</publishTime>
+      <publishTime>04/05/2017 22:02:59</publishTime>
     </File>
     <File Include="bin/BootstrapIntroduction.dll">
-      <publishTime>03/18/2017 19:57:03</publishTime>
+      <publishTime>04/05/2017 22:02:53</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>03/02/2015 09:32:26</publishTime>
@@ -229,7 +229,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/24/2017 10:05:31</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>03/18/2017 19:57:03</publishTime>
+      <publishTime>04/05/2017 22:02:55</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>02/22/2017 22:55:37</publishTime>
@@ -334,7 +334,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/02/2017 09:21:54</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/18/2017 19:57:03</publishTime>
+      <publishTime>04/05/2017 22:02:54</publishTime>
     </File>
   </ItemGroup>
 </Project>
