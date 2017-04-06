@@ -68,6 +68,7 @@ Jefferson Leal  this is a test
 Another test, I like soccer and pizza =D
 
 ////
+<<<<<<< HEAD
 >>>>>>> 426b3d65aac6f6df78a48c0cac7e83b7d0a05a7c
 
 
@@ -76,3 +77,9 @@ Another test, I like soccer and pizza =D
 Dugan 3rd commit
 
 ////
+=======
+
+Last test of Jefferson Leal
+
+///
+>>>>>>> 0e58ffbbf1effb928f662ae891603672cbd2319b
