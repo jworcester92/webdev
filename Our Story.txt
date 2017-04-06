@@ -41,13 +41,38 @@ I love bacon
 LOL I LOVE BACON TOO
 
 JEREMY
+<<<<<<< Updated upstream
 
 ////
 
 Another time from Jeremy
+<<<<<<< HEAD
 
 ////
 
 Dugan Commits again
+
+////
+=======
+=======
+////
+
+>>>>>>> Stashed changes
+
+////
+
+Jefferson Leal  this is a test
+
+///
+
+Another test, I like soccer and pizza =D
+
+////
+>>>>>>> 426b3d65aac6f6df78a48c0cac7e83b7d0a05a7c
+
+
+////
+
+Dugan 3rd commit
 
 ////
