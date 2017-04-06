@@ -41,7 +41,16 @@ I love bacon
 LOL I LOVE BACON TOO
 
 JEREMY
+<<<<<<< Updated upstream
 
 ////
 
 Another time from Jeremy
+=======
+////
+
+>>>>>>> Stashed changes
+
+////
+
+Jefferson Leal  this is a test
